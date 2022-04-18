@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Víctor Javier Llorente Lázaro and I am currently working on high-order numerical schemes and ocean modelling. You will find information on in-house CFD codes there and more.
+This is Víctor Javier writting 😃. I am a researcher currently working on high-order numerical schemes and ocean modelling. You will find information on in-house CFD codes there and more!
 
-More information:
+Additional information:
 - 📌 From Zaragoza (Aragon) in Madrid
 - 🎓 Industrial Engineer and Doctor in Mechanical Engineering by Zaragoza University
-- 👨‍🔬 Postdoctoral researcher at the Deparment of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM - School of Aeronautics
+- 👨‍🔬 Postdoctoral researcher at the dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM
 - 💻 Computer languages: Fortran, Matlab and a bit of C/C++
