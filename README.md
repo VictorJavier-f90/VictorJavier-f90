@@ -23,4 +23,4 @@ Additional information:
 - 📌 From Zaragoza (Aragon) in Madrid
 - 🎓 Industrial Engineer and Doctor in Mechanical Engineering by Zaragoza University
 - 👨‍🔬 Postdoctoral researcher at the dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM
-- 💻 Computer languages: Fortran, Matlab and a bit of C/C++
+- 💻 Computer languages: Fortran, MATLAB and a bit of C/C++
