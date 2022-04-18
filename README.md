@@ -3,6 +3,8 @@
 <!--
 **VictorJavier-CFD/VictorJavier-CFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Postdoctoral researcher at the Deparment of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM - School of Aeronautics.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
