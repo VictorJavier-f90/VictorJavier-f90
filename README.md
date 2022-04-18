@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Víctor Javier Llorente Lázaro, from Zaragoza (Aragon). You will find information on in-house CFD codes there.
+
+- 📌 Madrid, Spain
+- 🎓 Doctor in Mechanical Engineering by University of Zaragoza
+- 👨‍🔬 Postdoctoral researcher at the Deparment of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM - School of Aeronautics
+- 💻 Computer languages: Fortran, Matlab and a bit of C/C++
