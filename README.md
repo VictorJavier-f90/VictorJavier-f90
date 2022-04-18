@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Víctor Javier Llorente Lázaro, from Zaragoza (Aragon). You will find information on in-house CFD codes there.
+I am Víctor Javier Llorente Lázaro and I am currently working on high-order numerical schemes and ocean modelling. You will find information on in-house CFD codes there and more.
 
-- 📌 Madrid, Spain
-- 🎓 Doctor in Mechanical Engineering by University of Zaragoza
+More information:
+- 📌 From Zaragoza (Aragon) in Madrid
+- 🎓 Industrial Engineer and Doctor in Mechanical Engineering by Zaragoza University
 - 👨‍🔬 Postdoctoral researcher at the Deparment of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM - School of Aeronautics
 - 💻 Computer languages: Fortran, Matlab and a bit of C/C++
