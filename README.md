@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Víctor Javier speaking 😃. I am a researcher currently working on high-order numerical schemes and ocean modelling. You will find information on in-house CFD codes there and more!
+This is Víctor Javier speaking 😃. I work in the modelling, analysis, and computation of partial differential equations for Fluid Mechanics 🌊. The goal and interest of my research is the development of novel and accurate numerical schemes for a wide variety of fluid flow phenomena.
 
 Additional information:
 - 📌 From Zaragoza (Aragon) in Madrid
 - 🎓 Industrial Engineer and Doctor in Mechanical Engineering by Zaragoza University
 - 👨‍🔬 Postdoctoral researcher at Dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM
-- 📚 Computational Fluid Dynamics, Oceanography 
-- 💻 Computer languages: Fortran, MATLAB and a bit of C/C++
+- 📚 Computational Fluid Dynamics, Aerodynamics, Oceanography 
+- 💻 Computer languages: Fortran, MATLAB and a bit of C/C++ and Python
