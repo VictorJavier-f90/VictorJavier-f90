@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Víctor Javier speaking 😃. I work in the modelling, analysis, and computation of partial differential equations for Fluid Mechanics 🌊. The goal and interest of my research is the development of novel and accurate numerical schemes for a wide variety of fluid flow phenomena.
+This is Víctor Javier speaking 😃. I work in the modelling, analysis, and computation of partial differential equations for Fluid Mechanics 🌊. The goal and interest of my research is the development of novel and accurate numerical schemes 🎯 for a wide variety of fluid flow phenomena 🌍.
 
 Additional information:
 - 📌 From Zaragoza (Aragon) in Madrid
 - 🎓 Industrial Engineer and Doctor in Mechanical Engineering by Zaragoza University
 - 👨‍🔬 Postdoctoral researcher at Dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM
-- 📚 Computational Fluid Dynamics, Aerodynamics, Oceanography 
+- 📚 Computational Fluid Dynamics, High-order methods, and Oceanography 
 - 💻 Computer languages: Fortran, MATLAB and a bit of C/C++ and Python
