@@ -22,6 +22,6 @@ I am Víctor Javier Llorente Lázaro 😃, and I work in the modelling, analysis
 Additional information:
 - 📌 From Zaragoza (Aragon) in Madrid
 - 🎓 Industrial Engineer and Doctor in Mechanical Engineering by Zaragoza University
-- 👨‍🔬 Postdoctoral researcher at Dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM
+- 👨‍🔬 Postdoctoral Research Associate at the Dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM
 - 📚 Computational Fluid Dynamics, High-order methods, and Oceanography 
 - 💻 Computer languages: Fortran, MATLAB and a bit of C/C++ and Python
