@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 I am Víctor Javier Llorente Lázaro 😃, and I work in the modelling, analysis, and computation of partial differential equations for Fluid Mechanics 🌊. The goal and interest of my research is the development of novel and accurate numerical schemes 🎯 for a wide variety of fluid flow phenomena 🌍.
 
 Additional information:
-- 📌 From Zaragoza, Aragon <!-- - :house: Based in Granada -->
+- 📌 From Zaragoza, Aragon
+- :house: Based in Granada
 - 🎓 Industrial Engineer and Doctor in Mechanical Engineering by University of Zaragoza
-- 👨‍🔬 Postdoctoral Research Associate in Applied Mathematics at the Dept. of Applied Mathematics to Aerospace Engineering, ETSIAE-UPM <!-- - Postdoctoral Research Fellow in Applied Mathematics and Marine Science at Dept. of of Structural Mechanics and Hydraulic Engineering, University of Granada --> 
+- 👨‍🔬 Postdoctoral Research Fellow in Applied Mathematics and Marine Science at Dept. of of Structural Mechanics and Hydraulic Engineering, University of Granada 
 - 📚 Computational Fluid Dynamics, High-order methods, and Oceanography 
 - 💻 Computer languages: Fortran, MATLAB and a bit of Python and C++
